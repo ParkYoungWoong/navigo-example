@@ -1,0 +1,19 @@
+body {
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+}
+.page {
+  padding: 30px;
+  h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 10px 0;
+  }
+  h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px 0;
+  }
+}
+.flex-space {
+  flex-grow: 1;
+}
